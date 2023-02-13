@@ -31,5 +31,6 @@ Se requiere un programa en Java para convertir una cantidad de dinero en otros t
   +----------+---------------+---------------------+----------------+
   
   ~~~
-  
-  ## Etapa 03. Diseño de la solución
+  ## Etapa 03. Diseño de la solución.
+  ![](https://github.com/avm0402045632/Ejercicio01/blob/master/Diagrama%20de%20clases.png)
+ 
